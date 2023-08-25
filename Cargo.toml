@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+    "./crates/primes_table",
+    "./crates/primes_table_gen",
+    "./examples/primes_test",
+    "./examples/inspect_macro",
+]
